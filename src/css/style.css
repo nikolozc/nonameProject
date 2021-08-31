@@ -1,0 +1,13 @@
+.app {
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    background-color: darkblue;
+    margin-bottom: 10%;
+}
+
+.unityWindow{
+    border: 1px solid black;
+}
