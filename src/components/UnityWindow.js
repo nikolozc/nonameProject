@@ -2,10 +2,10 @@ import React from "react";
 import Unity, { UnityContext } from "react-unity-webgl";
 
 const unityContext = new UnityContext({
-    loaderUrl: "build/myunityapp.loader.js",
-    dataUrl: "build/myunityapp.data",
-    frameworkUrl: "build/myunityapp.framework.js",
-    codeUrl: "build/myunityapp.wasm",
+    loaderUrl: "Build/myunityapp.loader.js",
+    dataUrl: "Build/myunityapp.data",
+    frameworkUrl: "Build/myunityapp.framework.js",
+    codeUrl: "Build/myunityapp.wasm",
 });
 function UnityWindow() {
   return (
