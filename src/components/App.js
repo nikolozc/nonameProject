@@ -1,5 +1,4 @@
 import React from "react";
-import Unity, { UnityContext } from "react-unity-webgl";
 import Header from "./Header";
 import UnityWindow from "./UnityWindow";
 
